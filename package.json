@@ -1,0 +1,26 @@
+{
+  "name": "burger-sequel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSobota/burger-sequel.git"
+  },
+  "keywords": [
+    "\"burgers\"",
+    "\"eating\"",
+    "\"burgerfi\"",
+    "\"sequelize-da-burger\""
+  ],
+  "author": "Justin Sobota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSobota/burger-sequel/issues"
+  },
+  "homepage": "https://github.com/JSobota/burger-sequel#readme"
+}
